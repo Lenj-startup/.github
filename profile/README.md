@@ -84,7 +84,7 @@ To reignite the culture of exchange, reduce consumerism, and protect the environ
 ## 👥 Team
 - **Executive Manager**: Dr. Amir Mohammad Ali Abadi
 - **Backend Developers**: Mohammad Ebrahimi
-- **DevOps Engineer**: Sina Abutalebi
+- **DevOps Engineer**: Sina Aboutalebi
 - **UI/UX Designers**: Hamidreza Askari Zadeh, Elnaz Ebrahimi
 - **AI Engineer**: Hossein Seyyedi
 - **Frontend Developer**: Saman Safaei
